@@ -1,5 +1,9 @@
 # gbro-series-vocab
 
+<p align="center">
+  <img src="assets/hero.png" alt="gbro-series-vocab：一集美剧 → 50 张 Anki 闪卡 + 词汇笔记" width="820">
+</p>
+
 追剧学英语：报一个剧名 + 集数，agent 自动找到该集字幕，提取 50 个值得学的词汇短语（短语动词、习语、俚语、B2-C1 实用词），生成可以直接导入 Anki 的闪卡文件 + 一份 Markdown 词汇笔记。先花 10 分钟过一遍词，再看这集，生词全在语境里。
 
 Learn English from TV series: give it a show name + episode, get 50 Anki-ready vocabulary cards extracted from that episode's actual script.
